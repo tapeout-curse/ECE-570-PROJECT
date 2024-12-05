@@ -1,0 +1,2 @@
+Run psnr_ssim block to get the PSNR/SSIM plots
+All python codes can be run seperately, kodak dataset is called within the code.
